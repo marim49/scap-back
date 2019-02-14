@@ -18,6 +18,7 @@
     "dotenv": "^5.0.1",
     "ejs": "^2.5.6",
     "express": "^4.15.2",
+    "json-stringify-safe": "^5.0.1",
     "jsonwebtoken": "^8.3.0",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.10",
@@ -28,6 +29,7 @@
     "node-postgres-named": "^2.4.1",
     "ogr2ogr": "^1.2.1",
     "pg": "^7.4.1",
+    "promise": "^8.0.2",
     "unzip2": "^0.2.5",
     "winston": "^2.4.2",
     "xmldoc": "^1.1.0"
